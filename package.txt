@@ -1,8 +1,0 @@
-{
-  "version": "0.0.0",
-  "private": true,
-  "name": "nprPlayer",
-  "description": "A tutorial application for AngularJS",
-  "license": "MIT",
-  "devDependencies": {"http-server": "^0.6.1"}
-}
