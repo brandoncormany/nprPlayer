@@ -1,0 +1,15 @@
+{
+  "name": "nprPlayer",
+  "version": "0.0.0",
+  "description": "nprPlayer App",
+  "main": "main.js",
+  "dependencies": {
+    "http-server": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Cormany",
+  "license": "MIT"
+}
